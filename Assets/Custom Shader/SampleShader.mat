@@ -30,8 +30,8 @@ Material:
     m_Ints: []
     m_Floats:
     - _Gloss: 10
-    - _LightFallOffController: 0.1
-    - _SpecularFallOffController: 0.1
+    - _LightFallOffController: 11.78
+    - _SpecularFallOffController: 11.78
     m_Colors:
-    - _Color: {r: 1, g: 0.9929418, b: 0.2688679, a: 0}
+    - _Color: {r: 1, g: 0.97946733, b: 0.27058828, a: 0}
   m_BuildTextureStacks: []
